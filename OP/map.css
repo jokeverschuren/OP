@@ -1,0 +1,154 @@
+body{
+	background-image: url(background.jpg);
+	background-size: 100%;
+}
+
+.header{
+	width: 1700px;
+	height: 150px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+.change {
+	margin-left: 300px;
+}
+
+@font-face{
+	font-family: 'Standout';
+	src: url('Standout.ttf') format('truetype');
+}
+
+.sign{
+	margin-left: 660px;
+	margin-top: -112px;
+
+}
+
+
+
+
+h1{
+	font-size: 8em;
+	color: black;
+	margin-left: 50px;
+	margin-top: 10px;
+	font-family: 'Standout', sans-serif;
+
+}
+
+
+.links{
+	width: 350px;
+	height: 1570px;
+	background-color: white;
+	margin-left: -400px;
+	margin-top: -880px;
+	margin-bottom: 2em;
+}
+
+.logo{
+	margin-left: 25px;
+	margin-top: 30px;
+
+}
+
+ul li{
+	
+ 	margin-top: 20px;
+
+}
+
+ul{
+	text-align: left;
+	margin-left: 30px;
+	margin-top: 20px;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+
+	
+}
+
+.header a{
+	text-decoration: none;
+	color: black;
+}
+
+.more{
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+	text-decoration: underline;
+}
+
+h2{
+	font-size: 3em;
+	margin-top: 400px;
+	margin-left: 0px;
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	width: 350px;
+	text-align: center;
+
+}
+
+h3{
+	font-size: 1.2em;
+	padding-left: 1.3em;
+	margin-top: 50px;
+	padding-right: 2em;
+	color: black;
+	text-align: justify;
+	font-family: 'Indie Flower';
+	width: 300px;
+}
+
+a{
+	text-decoration: none;
+	color: #00FF00;
+}
+
+.kader {
+	width: 1300px;
+	height: 900px;
+	margin-left: 500px;
+
+	/*background: rgb(147, 149, 152);
+	opacity: 1;
+	box-shadow: 10px 10px 5px #888888;*/
+}
+
+.map {
+	margin-top: 200px;
+	margin-left: 400px;
+}
+
+.hotspot {
+	margin-top: -650px;
+}
+
+h4 {
+	font-size: 1.5em;
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1em;
+	padding: 20px;
+	background: rgb(147, 149, 152);
+	width: 260px;
+	text-align: center;
+}
+
+.kader ul {
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	font-size: 1em;
+	background: rgb(147, 149, 152);
+	margin-left: 1.5em;
+	width: 300px;
+	text-align: center;
+	margin-top: -1.5em;
+	padding-bottom: 1em;
+}
+
+.kader li {
+	color: black;
+}

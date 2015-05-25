@@ -1,0 +1,180 @@
+body{
+	background-image: url(background.jpg);
+	background-size: 100%;
+}
+
+.header{
+	width: 1110px;
+	height: 150px;
+	background-color: white;
+	margin-left: 400px;
+	margin-top: 30px;
+	border: 3px solid black;
+	border-style: double;
+}
+
+@font-face{
+	font-family: 'Blockography';
+	src: url('Blockography.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'Penstriped';
+	src: url('Penstriped.ttf') format('truetype');
+}
+
+h1{
+	font-family: 'Blockography';
+}
+
+.sign{
+	margin-left: 660px;
+	margin-top: -112px;
+
+}
+
+
+
+
+h1{
+	font-size: 8em;
+	color: black;
+	margin-left: 40px;
+	margin-top: 10px;
+	
+
+}
+
+
+.links{
+	width: 350px;
+	height: 1270px;
+	background-color: white;
+	margin-left: -100px;
+	margin-top: -15px;
+
+
+}
+
+.logo{
+	margin-left: 30px;
+	margin-top: 15px;
+
+}
+
+.fotolijst p{
+	font-size: 0.8em;
+	padding: 2px;
+	font-family: 'Pacifico';
+}
+
+.fotolijst p:nth-child(2){
+	text-align: center;
+
+}
+
+ul li{
+	
+ 	margin-top: 20px;
+
+}
+
+ul{
+	text-align: left;
+	margin-left: 30px;
+	margin-top: 20px;
+	font-family: 'Roboto', sans-serif;
+
+	
+}
+
+.header a{
+	text-decoration: none;
+	color: black;
+}
+
+
+.more{
+	font-family: 'Penstriped';
+	font-size: 0.8em;
+}
+
+.facebookpage{
+	font-family: 'Penstriped';
+	font-size: 0.8em;
+
+}
+
+h2{
+	font-size: 1.2em;
+	margin-top: 385px;
+	margin-left: 0px;
+	color: black;
+	font-family: 'Penstriped';
+	width: 350px;
+	text-align: center;
+
+}
+
+h3{
+	font-size: 1em;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-right: 790px;
+	color: black;
+	text-align: justify;
+	font-family: 'Indie Flower';
+}
+
+a{
+	text-decoration: none;
+	color: #00FF00;
+}
+
+.kader{
+	width: 1100px;
+	height:900px;
+	margin-left: 500px;
+	margin-top: 20px;
+	padding-top: 10px;
+
+}
+
+
+
+.fotolijst{
+	opacity: 0.8;
+	width: 300px;
+	height: 400px;
+	background-color: white;
+	box-shadow: 10px 10px 5px #888888;
+	float: right;
+	margin-left: 95px;
+	margin-bottom: 35px;
+
+
+
+}
+
+
+.foto, .foto2, .foto3, .foto4, .foto5, .foto6{
+	width: 250px;
+	height: 250px;
+	background-color: black;
+	margin-top: 25px;
+	margin-left: 15px;
+	padding-top: 10px;
+	border:10px solid white;
+}
+
+
+
+.hidden{
+	display: none;
+}
+
+.art1, .art2, .art3, .art4, .art5, .art6{
+	margin-top: -10px;
+	height: 260px;
+}
+
